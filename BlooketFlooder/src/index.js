@@ -16,4 +16,4 @@ console.log(purple('  - 60-70% less resources used\n'));
 
 if (!process.env.PROXY) console.log(orange('⚠️  use a proxy for faster botting! see the README for more info\n'));
 
-import('./legacy/index.js');
+import('./beta/index.js');
